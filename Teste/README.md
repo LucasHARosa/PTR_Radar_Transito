@@ -1,20 +1,25 @@
 # Método de uso:
-Arquivos de conexão com o Coppelia:
-	sim.py
-	simConst.py
+* Arquivos de conexão com o Coppelia:
 
-Para windows
-	remoteApi.dll
+sim.py
+simConst.py
 
-Arquivos de teste
-	simulacaoteste.py
-	TarefasTest.py
+* Para windows
 
-Arquivos para simulação
-	Tarefas.py
-	MonitorTimes.py
-	camera.py
-	Simulacao.py
+remoteApi.dll
 
-Cenário
-	simulacao.ttt
+* Arquivos de teste
+
+simulacaoteste.py
+TarefasTest.py
+
+* Arquivos para simulação
+
+Tarefas.py
+MonitorTimes.py
+camera.py
+Simulacao.py
+
+* Cenário
+
+simulacao.ttt
