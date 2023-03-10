@@ -1,3 +1,8 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/LucasHARosa/PTR_Radar_Transito)
+![GitHub language count](https://img.shields.io/github/languages/count/LucasHARosa/PTR_Radar_Transito)
+![GitHub top language](https://img.shields.io/github/languages/top/LucasHARosa/PTR_Radar_Transito)
+![GitHub last commit](https://img.shields.io/github/last-commit/LucasHARosa/PTR_Radar_Transito)
+
 <h1 align="center">
   Radar de trânsito com semáforo 
 </h1>
