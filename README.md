@@ -28,14 +28,14 @@ O projeto é baseado em duas condições. A primeira trata-se de:
 
 * Semáforo aberto:
 
-O radar faz a fotografia do veículo baseado na condição da \textbf{verificação da velocidade}. Quando o sinal está aberto a leitura dos sensores calcula e informa a velocidade do carro para o display. Caso a velocidade seja superior a permitida, a câmera será acionada.
+O radar faz a fotografia do veículo baseado na condição da verificação da velocidade. Quando o sinal está aberto a leitura dos sensores calcula e informa a velocidade do carro para o display. Caso a velocidade seja superior a permitida, a câmera será acionada.
 
 <br>
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/65405310/168211918-01fa6c07-af9d-4487-a975-799f377811fa.jpeg" style="width:30%;height:auto;">
 </p>
 
-* Semáforo fechado: O radar faz a fotografia do veículo baseado na condição de \textbf{Ultrapassagem do sinal vermelho}. Quando o sinal está fechado a leitura dos sensores verifica se houve a passagem de algum automóvel. Caso algum carro passe, a câmera é acionada.
+* Semáforo fechado: O radar faz a fotografia do veículo baseado na condição de Ultrapassagem do sinal vermelho. Quando o sinal está fechado a leitura dos sensores verifica se houve a passagem de algum automóvel. Caso algum carro passe, a câmera é acionada.
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/65405310/168211941-d00edf45-b241-497d-bfdc-261560caffa2.jpeg" style="width:30%;height:auto;">
 </p>
